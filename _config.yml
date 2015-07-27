@@ -14,14 +14,6 @@ footer: David R. Pugh, Dan F. Tang, and J. Doyne Farmer
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
   - title: github
     url: https://github.com/ScalABM
 
